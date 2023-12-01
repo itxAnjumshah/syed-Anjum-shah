@@ -1,0 +1,30 @@
+.layout{
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+
+.flex{
+    display: flex;  
+}
+.space-between{
+    justify-content: space-between;
+
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+
+}
+.uppercase {
+text-transform: uppercase; 
+}
+.f-w-600{
+    font-weight:600; 
+}
+.f-w-700{
+    font-weight:700; 
+}

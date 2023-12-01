@@ -197,5 +197,22 @@ footer{
     background-image: url(assets/footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: absolute;
+    display: flex;
+    flex-wrap: wrap;  
+ justify-content: space-between;
+}
+iframe{
+    background-position: relative;
+}
+footer ul li{
+    height: 80px;
+    width: 80px;
+    
+}
+footer ul{
+    display: flex;
+    
+    flex-wrap: wrap;
     
 }
